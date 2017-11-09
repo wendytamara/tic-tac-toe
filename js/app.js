@@ -12,6 +12,8 @@ function onCellClick(event){
 }
 
 
+
+
 board.addEventListener("click", addX);
   };
 var centinel = false;
